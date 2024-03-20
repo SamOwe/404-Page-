@@ -55,7 +55,7 @@ header {
 }
 
 
-/* Image - left */
+/* Image -> left */
 
 .container img {
     display: block;
@@ -69,7 +69,7 @@ header {
 }
 
 
-/* Text - right */
+/* Text -> Right */
 
 .container .container-elems {
     position: absolute;
